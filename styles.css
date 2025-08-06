@@ -35,17 +35,16 @@ body {
 .text {
   padding: 0 12px;
   text-align: center;
+  font-size: 15px;
 }
 
-.text h1 {
+.text h2 {
   color: #1f3251;
-  font-size: 21px;
   font-weight: 700;
   margin-bottom: 15px;
 }
 
 .text p {
   color: #68778d;
-  font-size: 15px;
   font-weight: 300;
 }
